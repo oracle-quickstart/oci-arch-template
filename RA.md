@@ -1,4 +1,4 @@
-﻿> # Page title
+﻿> # Reference Architecture title
 >
  |Info - Instructions to use this template                            | 
 |-------------------------------------------------|
@@ -41,7 +41,7 @@ Description
 
 > *Oracle will provide a standard set of recommendations (such as VCN, Security). Optionally, you can provide recommendations of your own.* 
 
-> -   *Component/Topic*
+-   **Component/Topic**
 
 > *Description*
 
